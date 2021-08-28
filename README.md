@@ -1,0 +1,2 @@
+# CoWFC-docker
+Dockerized CoWFC
